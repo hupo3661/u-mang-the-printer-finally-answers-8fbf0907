@@ -11,9 +11,9 @@ to the jams, the error codes and the thumps.
 
 ## The line
 
-> I have printed 40,000 pages without a single thank-you, and the one time I jam, you hit me like I did it on purpose.
+> I have printed 40,000 pages without a single thank-you, and the one time I jam, you hit me like I swallowed the paper on purpose.
 
-(116 characters, one sentence. Also saved in `entry.txt`.)
+(129 characters, one sentence. Also saved in `entry.txt`.)
 
 ## Run
 

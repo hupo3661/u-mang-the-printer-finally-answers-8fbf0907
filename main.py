@@ -9,7 +9,7 @@ from pathlib import Path
 
 ENTRY = (
     "I have printed 40,000 pages without a single thank-you, and "
-    "the one time I jam, you hit me like I did it on purpose."
+    "the one time I jam, you hit me like I swallowed the paper on purpose."
 )
 
 
